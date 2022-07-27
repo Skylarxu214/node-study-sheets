@@ -11,3 +11,6 @@ let int = setInterval(()=>{
     num = temp
 
 },1000)
+
+console.log(`My directory name and path: ${__dirname}`)
+console.log(`My file name and path: ${__filename}`)
