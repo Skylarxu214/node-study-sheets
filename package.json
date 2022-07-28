@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/Skylarxu214/node-study-sheets/issues"
   },
-  "homepage": "https://github.com/Skylarxu214/node-study-sheets#readme"
+  "homepage": "https://github.com/Skylarxu214/node-study-sheets#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.19"
+  }
 }
